@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Tejpal kumawat</title>
+    <link>https://example.com/tags/scene/</link>
+    <description>Recent content in scene on Tejpal kumawat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Text Classifications in Deep Learning</title>
+      <link>https://example.com/post/project1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project1/</guid>
+      <description>PROJECT 1.1
+  DISASTER TWEETS ANANYSIS     Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
+  Did Exploratory data analysis and analyse the length of the tweets with the help of histograms .
+  Use GLOVE (stanford nlp) to convert words into their corresponding word vectors.
+  Use Naive bayes Classifier and recurrent Neural Networks to make the model.</description>
+    </item>
+    
+  </channel>
+</rss>
